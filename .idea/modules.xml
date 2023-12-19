@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/practiseAssiOne.iml" filepath="$PROJECT_DIR$/practiseAssiOne.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/First-Idea-Programm.iml" filepath="$PROJECT_DIR$/First-Idea-Programm.iml" />
+>>>>>>> origin/main
     </modules>
   </component>
 </project>
