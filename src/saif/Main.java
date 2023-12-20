@@ -1,5 +1,6 @@
 package saif;
 
+<<<<<<< HEAD
 public class Main {
     public static void main(String[] args) {
         int salary = 60000;
@@ -11,3 +12,13 @@ public class Main {
         System.out.println(salary);
     }
 }
+=======
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println(input.nextInt());
+    }
+}
+>>>>>>> origin/main
