@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Conditional and Loops.iml" filepath="$PROJECT_DIR$/Conditional and Loops.iml" />
 =======
 <<<<<<< HEAD
@@ -11,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/First-Idea-Programm.iml" filepath="$PROJECT_DIR$/First-Idea-Programm.iml" />
 >>>>>>> origin/main
 >>>>>>> origin/main
+=======
+      <module fileurl="file://$PROJECT_DIR$/Conditional and Loops Assignments.iml" filepath="$PROJECT_DIR$/Conditional and Loops Assignments.iml" />
+>>>>>>> 937eb2d (Initial commit)
     </modules>
   </component>
 </project>
